@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/viteReactRoute/static/css/main.fe200add.css",
+    "main.js": "/viteReactRoute/static/js/main.113a2ef9.js",
+    "index.html": "/viteReactRoute/index.html",
+    "main.fe200add.css.map": "/viteReactRoute/static/css/main.fe200add.css.map",
+    "main.113a2ef9.js.map": "/viteReactRoute/static/js/main.113a2ef9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe200add.css",
+    "static/js/main.113a2ef9.js"
+  ]
+}
